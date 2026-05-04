@@ -1,0 +1,6 @@
+C:\Users\ilyap\source\repos\The XOR cipher\The XOR cipher\x64\Debug\The XOR cipher.vcxproj.AssemblyReference.cache
+C:\Users\ilyap\source\repos\The XOR cipher\The XOR cipher\x64\Debug\The_XOR_cipher.Программно-методический комплекс - Классическая криптография.resources
+C:\Users\ilyap\source\repos\The XOR cipher\The XOR cipher\x64\Debug\The XOR cipher.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\The XOR cipher\The XOR cipher\x64\Debug\The XOR cipher.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\The XOR cipher\The XOR cipher\x64\Debug\The_XOR_cipher.Программно-методический комплекс - Классическая криптография.resources
+C:\Users\user\source\repos\The XOR cipher\The XOR cipher\x64\Debug\The XOR cipher.vcxproj.GenerateResource.cache
